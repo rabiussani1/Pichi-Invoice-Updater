@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "updateType": "Optional",
+  "customTitle": "Pichi Invoice Generator v1.0.0 Official Release",
+  "customMessage": "Pichi Invoice Generator v1.0.0 is now available with the new Count-Only Dashboard, About section, and Google Sheets integration.",
+  "releaseNotes": "Official release of Pichi Invoice Generator v1.0.0.",
+  "whatsNew": [
+    "Initial production release v1.0.0",
+    "Count-Only Dashboard with zero financial amount exposure",
+    "Dedicated About section with developer profile, contact details, and privacy policy",
+    "Google OAuth sign-in with auto-provisioning dedicated Google Sheets database",
+    "Professional A5 invoice generator with instant preview and PDF export",
+    "Automated update checking system powered by GitHub"
+  ],
+  "improvements": [
+    "High-performance Google Sheets API synchronization",
+    "Seamless Windows titlebar controls and restore behavior",
+    "Optimized memory usage and cold startup speed"
+  ],
+  "bugFixes": [],
+  "importantNotices": [
+    "Requires an authorized Google Account to sign in and synchronize with Google Sheets.",
+    "Both Setup Installer and Portable versions are available."
+  ],
+  "releaseDate": "2026-11-25",
+  "portableUrl": "https://github.com/rabiussani1/Pichi-Invoice-Updater/releases/download/v1.0.0/Pichi-Invoice-Portable-v1.0.0.exe",
+  "setupUrl": "https://github.com/rabiussani1/Pichi-Invoice-Updater/releases/download/v1.0.0/Pichi-Invoice-Setup-v1.0.0.exe"
+}
